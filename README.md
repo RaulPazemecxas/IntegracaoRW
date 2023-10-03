@@ -10,7 +10,7 @@ integração do zabbix
 
 //Contribua com a causa animal: Se esse código te ajudar de alguma forma, por favor, considere auxiliar no projeto ADOTE ARCA DE NOE com QUALQUER VALOR;
 
-//PIX: ADOTEARCADENOE@GMAIL.COM
+//PIX: adotearcadenoe@gmail.com
 //favor, consultar as redes sociais do projeto para validar a vericidade antes da doação! Sua segurança em primeiro lugar sempre.
 
 //Mantenedor(a) do projeto ARCA DE NOE: +55 16 99254-9131
