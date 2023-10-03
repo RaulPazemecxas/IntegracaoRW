@@ -2,7 +2,7 @@
 
 //INSTAGRAM DO PROJETO: @noeprojeto //INSTAGRAM PESSOAL: @raulpazemecxas
 
-https://www.instagram.com/noeprojeto/
+//https://www.instagram.com/noeprojeto/
 
 //Contribua com a causa animal: Se esse código te ajudar de alguma forma, por favor, considere auxiliar no projeto ADOTE ARCA DE NOE com QUALQUER VALOR;
 
